@@ -1,0 +1,6 @@
+1.import virus_analyzer.sql file into mysql database
+2.Execute Virus_Analyzer.jar in the dist folder 
+3.Select the file you want to scan
+4.Enter Database details : server,port,username,password,database name
+
+for testing purposes manifest.mf file is added to the database as an infected file
