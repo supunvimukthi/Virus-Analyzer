@@ -25,4 +25,4 @@ Given a file as user input user checks for infected data by finding matches by q
 - run python file using cmd with **python virus_analyze.py**
 - select a file to scan.
 
-***To learn how to import mysql database follow this [link](https://mediatemple.net/community/products/dv/204403864/export-and-import-mysql-databases)
+***To learn how to import mysql database follow this [link](https://mediatemple.net/community/products/dv/204403864/export-and-import-mysql-databases)*** 
